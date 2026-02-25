@@ -1,6 +1,3 @@
-# Your PurpleRTP license key - purchase at your-store-url.com
-LICENSE-KEY: ""
-
 ENABLED: true
 SETTINGS:
   PLAYERS-IN-RTP: 150
